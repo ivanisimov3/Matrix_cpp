@@ -1,0 +1,10 @@
+# ninja log v6
+2	221	7562260493359757	build.ninja	a97d5ad35f211e82
+25	3106	7560366753174916	CMakeFiles/matrix3.dir/AppManager.cpp.obj	d880568f1c4b0d9d
+30	2956	7560366753218533	CMakeFiles/matrix3.dir/Explosion.cpp.obj	5b7527104fd6b98a
+19	2880	7560366753115005	CMakeFiles/matrix3.dir/main.cpp.obj	7b5a15f485e91ae8
+13	1868	7559017392453072	CMakeFiles/matrix3.dir/Symbol.cpp.obj	c65d15fd985eaa83
+5	2071	7559574846066626	CMakeFiles/matrix3.dir/Line.cpp.obj	b303fa05b456f9cb
+16	70	7559559859143066	CMakeFiles/matrix3.dir/Figure.cpp.obj	dcfabc52a8967d02
+6	1621	7559151797061825	CMakeFiles/matrix3.dir/Service.cpp.obj	9ef8a91be7bfe791
+3106	3414	7560366783977398	matrix3.exe	f761b409fb3cd13d
